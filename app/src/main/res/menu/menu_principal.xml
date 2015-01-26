@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+    <item android:id="@+id/action_playuri"
+        android:icon="@drawable/ic_action_uri"
+        android:title="Uri"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_playvideo"
+        android:icon="@drawable/ic_action_video"
+        android:title="Video"
+        android:showAsAction="ifRoom"/>
+</menu>
